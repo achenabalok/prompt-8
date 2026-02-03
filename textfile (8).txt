@@ -1,0 +1,54 @@
+{
+    "celebrity_details": {
+      "name": "Sydney Sweeney",
+      "status": "American Actress",
+      "known_for": "Euphoria, The White Lotus"
+    },
+    "scene_description": {
+      "pose": "Sitting on a lime-green 'Super Keor' arcade bike, looking back over shoulder",
+      "outfit": "Red ribbed sleeveless crop top with buckle straps, white high-waisted shorts with a 'Dolce & Gabbana' waistband",
+      "background_elements": ["Neon lights", "Arcade cabinets", "Gaming consoles", "Orange and blue lighting"],
+      "aesthetic": "Bright, energetic, social media style"
+    }
+  },
+  {
+    "celebrity_details": {
+      "name": "Sophie Rain",
+      "status": "Social Media Influencer",
+      "known_for": "Viral social media content"
+    },
+    "scene_description": {
+      "pose": "Sitting forward on a pink 'Super Keor' arcade bike, smiling at camera",
+      "outfit": "Pink distressed tube top with buckle detail, matching pink leather-style shorts with a 'Giorgio Armani' waistband",
+      "body_art": ["'mind matter' tattoos on both forearms"],
+      "background_elements": ["Purple neon ceiling lights", "'Let's Play' neon sign", "Retro gaming machines"],
+      "aesthetic": "Trendy, cyberpunk-lite, vibrant"
+    }
+  },
+  {
+    "celebrity_details": {
+      "name": "Anya Taylor-Joy",
+      "status": "British-American Actress",
+      "known_for": "The Queen's Gambit, Dune: Part Two"
+    },
+    "scene_description": {
+      "pose": "Elegant seating on a vintage blue Honda motorcycle",
+      "outfit": "Premium dark blue satin jumpsuit with a belted waist",
+      "accessories": ["Statement silver necklace"],
+      "background_elements": ["'Arcade Dreams' neon sign", "Classic pinball machines", "Wood-paneled walls", "Velvet sofa"],
+      "aesthetic": "Sophisticated, cinematic, 70s retro-luxe"
+    }
+  },
+  {
+    "celebrity_details": {
+      "name": "Megan Fox",
+      "status": "American Actress & Model",
+      "known_for": "Transformers, Jennifer's Body"
+    },
+    "scene_description": {
+      "pose": "Resting on a pink arcade bike, side profile looking at the camera",
+      "outfit": "Pink distressed knit crop top, white denim shorts, 'Giorgio Armani' underwear waistband, and black floral lace leggings",
+      "background_elements": ["Purple neon backlighting", "Glowing 'Super Bikes' logo", "Dark arcade interior"],
+      "aesthetic": "Edgy, high-fashion, neon-glam"
+    }
+  }
